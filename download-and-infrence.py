@@ -19,7 +19,7 @@ def display_banner():
 ╚██████╔╝██████╔╝   ██║   ███████║███████║███████╗   ██║   ██╔╝ ██╗███████╗
  ╚═════╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
                                                                            
-    OdysseyXL Model Inference Script v1.1 - By Aayan Mishra
+    OdysseyXL Model Inference Script v1.2 - By Aayan Mishra
     """
     console.print(Panel(banner, style="bold cyan"))
 
@@ -29,10 +29,10 @@ def choose_model():
     table.add_column("Model Name", justify="left")
 
     models = {
-        1: "Spestly/OdysseyXL-1.0",
-        2: "Spestly/OdysseyXL-2.0",
-        3: "Spestly/OdysseyXL-3.0",
-        4: "Spestly/OdysseyXL-4.0",
+        1: "Spestly/OdysseyXL-Origin",
+        2: "Spestly/OdysseyXL-V1",
+        3: "Spestly/OdysseyXL-V2",
+        4: "Spestly/OdysseyXL-V2.5",
     }
 
     for option, model in models.items():
