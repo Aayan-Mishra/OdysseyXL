@@ -28,7 +28,7 @@ A balanced model combining realism with stylistic flexibility. Ideal for:
 - Digital painting
 - Experimenting with styles
 
-### **OdysseyXL Zero**
+### **OdysseyXL-Origin**
 The original model that started it all. Great for:
 - General-purpose image generation
 - Prototyping creative ideas
@@ -68,13 +68,13 @@ python3 download-and-infrence.py
 |OdysseyXL V2.5   | Large      | [HuggingFace](https://huggingface.co/Spestly/OdysseyXL-4.0), [DiffuseCraftMod](https://huggingface.co/spaces/John6666/DiffuseCraftMod), | 1xA100
 | OdysseyXL V2 | Large      | [Civitai](https://civitai.com/models/1055457/odysseyxl), [HuggingFace](https://huggingface.co/open-neo/OdysseyXL-V2), [DiffuseCraft](https://huggingface.co/spaces/r3gm/DiffuseCraft),      | 1xA100     |
 | OdysseyXL V1 | Medium     | [Civitai](https://civitai.com/models/1055457?modelVersionId=1187743), [HuggingFace](https://huggingface.co/open-neo/OdysseyXL-V1)  | 1xL40S  |
-| OdysseyXL Zero | Small      | [Civitai](https://civitai.com/models/1055457?modelVersionId=1187335), [HuggingFace](https://huggingface.co/open-neo/OdysseyXL-Zero)  | 1xP100  |
+| OdysseyXL Origin | Small      | [Civitai](https://civitai.com/models/1055457?modelVersionId=1187335), [HuggingFace](https://huggingface.co/open-neo/OdysseyXL-Zero)  | 1xP100  |
 
 ---
 
 ## 📖 License
 
-All models in the OdysseyXL family are shared under the **OdysseyXL Community Community license**. Please ensure you adhere to the terms and conditions outlined in the license.
+All models in the OdysseyXL family are shared under the **MIT**. Please ensure you adhere to the terms and conditions outlined in the license.
 
 ---
 
@@ -83,7 +83,7 @@ All models in the OdysseyXL family are shared under the **OdysseyXL Community Co
 Join the OdysseyXL community to share your creations, report issues, and stay updated:
 
 - **Discord**: Coming Soon
-- **Twitter**: [@Spestly](https://twitter.com/Spestly)
+- **Twitter**: [@aayanmishraa](https://twitter.com/aayanmishraa)
 - **Submit your generated images!**: [Submit](https://tally.so/r/mZPblv)
 
 
